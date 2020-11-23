@@ -1,0 +1,22 @@
+id:        5
+date:      2019-12-12
+name:      ptp1b
+netcharge: -6 e
+pdb:       2QBS
+iridium_classifier: MT
+iridium_score:    0.33
+dpi: 0.15
+alternate:
+    pdb: 2HB1
+    iridium_classifier:  HT
+    iridium_score: 0.32
+references:
+    measurement:
+        - 10.1021/jm0702478
+    calculation:
+        - 10.1021/ja512751q
+        - 10.1021/acs.jcim.9b00105
+        - 10.1039/C9SC03754C
+comments:  "Charges in binding site; electrostatic interactions contribute to binding"
+associated_sets:
+        - "Schrodinger JACS"

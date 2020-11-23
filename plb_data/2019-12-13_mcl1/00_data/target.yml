@@ -1,0 +1,22 @@
+id:        9
+date:      2019-12-13
+name:      mcl1
+netcharge: 4 e
+pdb:       4HW3
+iridium_classifier: HT
+iridium_score:    0.41
+dpi: 0.26
+alternate:
+    pdb: 6O6F
+    iridium_classifier:  HT
+    iridium_score: 0.3
+references:
+    measurement:
+        - 10.1021/jm301448p
+    calculation:
+        - 10.1021/ja512751q
+        - 10.1021/acs.jcim.9b00105
+        - 10.1039/C9SC03754C
+comments:  "hydrophobic interactions contributing to binding"
+associated_sets:
+    - Schrodinger JACS

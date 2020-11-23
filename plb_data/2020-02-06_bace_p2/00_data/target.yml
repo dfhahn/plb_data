@@ -1,0 +1,21 @@
+id:        12
+date:      2020-02-06
+name:      bace_p2
+netcharge: -11 e
+pdb:       3IN4
+iridium_classifier: HT
+iridium_score:    0.59
+dpi: 0.28
+alternate:
+    pdb: 6UWP
+    iridium_classifier:  HT
+    iridium_score: 0.28
+references:
+    measurement:
+        - 10.1021/jm901414e
+    calculation:
+        - 10.1021/acs.jctc.6b01141
+        - 10.1039/C9SC03754C
+comments:  ""
+associated_sets:
+    - "Janssen"

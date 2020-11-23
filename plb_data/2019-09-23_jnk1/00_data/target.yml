@@ -1,0 +1,22 @@
+id:        1
+date:      2019-09-23
+name:      jnk1
+netcharge: 5 e
+pdb:       2GMX
+iridium_classifier: NT
+iridium_score:    ""
+dpi:    0.77
+alternate:
+    pdb: 3ELJ
+    iridium_classifier: MT
+    iridium_score: 0.31    
+references:
+    measurement:
+        - 10.1021/jm060199b
+    calculation:
+        - 10.1021/ja512751q
+        - 10.1021/acs.jcim.9b00105
+        - 10.1039/C9SC03754C
+comments:
+associated_sets:
+    - "Schrodinger JACS"

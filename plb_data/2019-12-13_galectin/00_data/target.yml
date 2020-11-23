@@ -1,0 +1,21 @@
+id:        8
+date:      2019-12-13
+name:      galectin
+netcharge: 4 e
+pdb:       5E89
+iridium_classifier: MT
+iridium_score:    1.04
+dpi: 0.07
+alternate:
+    pdb: 5NF7
+    iridium_classifier:  HT
+    iridium_score: 0.3
+references:
+    measurement:
+        - 10.1002/cbic.201600285
+    calculation:
+        - 10.1007/s10822-018-0110-5
+        - 10.1039/C9SC03754C
+comments:  ""
+associated_sets:
+

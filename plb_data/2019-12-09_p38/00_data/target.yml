@@ -1,0 +1,22 @@
+id:        4
+date:      2019-12-09
+name:      p38
+netcharge: -5 e
+pdb:       3FLY
+iridium_classifier: HT
+iridium_score:    0.6
+dpi: 0.12
+alternate:
+    pdb: 6SFI
+    iridium_classifier:  HT
+    iridium_score: 0.3
+references:
+    measurement:
+        - 10.1021/jm101423y
+    calculation:
+        - 10.1021/ja512751q
+        - 10.1021/acs.jcim.9b00105
+        - 10.1039/C9SC03754C
+comments: inversion of a stereocenter in one mutation
+associated_sets:
+    - Schrodinger JACS
